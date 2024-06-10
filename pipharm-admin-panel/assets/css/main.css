@@ -1,0 +1,49 @@
+td.order-packaging span,
+td.delivery-packaging span {
+  background-color: rgba(200, 219, 27, 0.2);
+  color: #aaae38;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+}
+td.delivery-pending span {
+  background-color: rgba(154, 154, 154, 0.2);
+  color: #9a9a9a;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+}
+
+td.order-completed span, td.delivery-completed span {
+  background-color: rgba(66, 186, 150, 0.2);
+  color: #42ba96;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+}
+
+td.delivery-on-the-way span {
+  background-color: rgba(122, 186, 66, 0.2);
+  color: #7eba42;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+}
+
+td.order-approved span {
+  background-color: rgba(57, 175, 179, 0.2);
+  color: #3890ae;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: 700;
+  position: relative;
+}
